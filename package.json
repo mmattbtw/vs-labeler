@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@skyware/bot": "^0.3.6",
     "@skyware/labeler": "^0.1.11"
   }
 }
