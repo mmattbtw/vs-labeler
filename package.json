@@ -1,0 +1,14 @@
+{
+  "name": "vs-labeler",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@skyware/labeler": "^0.1.11"
+  }
+}
