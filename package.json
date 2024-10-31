@@ -6,10 +6,10 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.6.3"
   },
   "dependencies": {
-    "@skyware/bot": "^0.3.6",
-    "@skyware/labeler": "^0.1.11"
+    "@skyware/bot": "^0.3.7",
+    "@skyware/labeler": "^0.1.12"
   }
 }
